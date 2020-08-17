@@ -1,0 +1,48 @@
+#title{
+  background-color: #222831;
+}
+.contain{
+  padding-bottom: 5%;
+}
+.navbar-brand{
+  font-family: 'Orbitron', sans-serif;
+  letter-spacing: 1px;
+  font-size: 2rem;
+}
+#carouselExampleControls{
+  margin-top: 15px;
+}
+#features{
+  padding:5% 2% 5% 2%;
+  text-align: center;
+  background-color: #eeeeee;
+}
+#product{
+  background-color: #222831;
+}
+.wall{
+  height: 35rem;
+}
+.card-title{
+  margin-top:16rem;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 2rem;
+  opacity: 0.5;
+}
+.gridgroup{
+  padding: 5% 2% 5% 2%;
+}
+.grid{
+  background-color:#eeeeee;
+}
+.cardgrid{
+  margin-top:0;
+}
+.card-img-top{
+  height: 25rem;
+}
+#contact{
+  text-align: center;
+  padding-top:5%;
+}
